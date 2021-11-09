@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView - Latihan 1</string>
+
+    <string name="title">Menjumlahkan 2 bilangan</string>
+    <string name="label_first_number">Masukan bilangan kesatu</string>
+    <string name="label_second_number">Masukan bilangan kedua</string>
+    <string name="label_result_number">Hasil penjumlahan</string>
+    <string name="label_button_action">Jumlahkan</string>
+</resources>
